@@ -123,8 +123,7 @@ npm install express body-parser fs axios
 
 ## Credits
 - This guide was created by Clarence, Kyle, Christel, and Akira.
-- Thanks to Deku (https://api.joshweb.click) for their APIs.
-- Thanks to Kaiz-Api and Hiroshi for their contributions.
+
 
 **Note:** Feel free to modify this file as needed.
 
